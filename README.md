@@ -1,4 +1,4 @@
-# 2006 - ThexT
+# 2006 - ThexT (memories from my past)
 
 A simple hex editor for Gnome.
 
